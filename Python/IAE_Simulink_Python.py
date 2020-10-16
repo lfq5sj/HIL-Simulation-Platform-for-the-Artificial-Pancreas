@@ -6,7 +6,7 @@
  % 30 Junio 2018 
  
  %% Load Simulink Data
- load("/solvers_graphs.mat");
+ load("Final_workspace/Solvers/solvers_graphs.mat");
  
 %% Gráficas de los solucionadores de Euler y RK4 para el modelo mínimo
  % de Bergman en Python 
